@@ -1,7 +1,7 @@
 # Building a Custom PC - Full Documentation
 This project documents the complete process of building a custom PC, from planning and hardware selection to assembly, BIOS configuration, operating system installation and performance testing
 
-## Goals ofthis Project
+## Goals of this Project
 - Document real-world PC building experience
 - Demonstrate hardware and system knowledge
 - Create a reusable guide for others
